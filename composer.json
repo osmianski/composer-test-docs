@@ -1,5 +1,6 @@
 {
     "name": "osmianski/composer-test-docs",
+    "license": "GPL-3.0-only",
     "autoload": {
         "psr-4": {
             "Test\\Docs\\": "src/"
