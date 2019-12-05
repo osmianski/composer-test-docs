@@ -1,0 +1,11 @@
+{
+    "name": "osmianski/composer-test-docs",
+    "autoload": {
+        "psr-4": {
+            "Test\\Docs\\": "src/"
+        }
+    },
+    "require": {
+        "test/framework": "dev-master"
+    }
+}
