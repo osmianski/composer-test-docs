@@ -6,6 +6,6 @@
         }
     },
     "require": {
-        "test/framework": "dev-master"
+        "osmianski/composer-test-framework": "dev-master"
     }
 }
