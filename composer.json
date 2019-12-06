@@ -8,5 +8,8 @@
     },
     "require": {
         "osmianski/composer-test-framework": "v1.x-dev"
+    },
+    "extra": {
+        "key": "value"
     }
 }
